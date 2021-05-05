@@ -1,0 +1,8 @@
+{
+  "name": "celebration-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "jquery": "^3.6.0"
+  }
+}
